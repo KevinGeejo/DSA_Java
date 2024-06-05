@@ -33,7 +33,6 @@ class Solution {
                     temp = temp.next;
                 }
                 temp.next = NewNode;
-                // NewNode.next = null;
             }
 
             if(first != null){
